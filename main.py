@@ -28,6 +28,3 @@ def main(db_file):
     Query1()
     print()
     Query2()
-
-if __name__ == "__main__":
-    main()
